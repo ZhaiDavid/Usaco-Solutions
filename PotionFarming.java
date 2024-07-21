@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
  
-public class Usaco {
+public class PotionFarming {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static StringTokenizer in;
 	public static void main(String[] args) throws IOException {
